@@ -1,5 +1,5 @@
-body{background-color:cream}
-h1{color:brown;font-size: 40px;text-align: center;border-style: double;border-width:thick;}
+body{background-color:brown}
+h1{color:lightgray;font-size: 40px;text-align: center;border-style: double;border-width:thick;}
 h2{color:lightblue;font-size:25px;text-align: center;border-style:solid;border-width:1px;}
 table{color:white;}
 table, th, td{border:1px solid orange;}
