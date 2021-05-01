@@ -1,0 +1,6 @@
+body{background-color: brown}
+h1{color:white;font-size: 40px;text-align: center;border-style: double;border-width:thick;}
+h3{color:slateblue;font-size:25px;text-align: center;border-style:solid;border-width:1px;}
+table{color:white;}
+table, th, td{border:1px solid orange;}
+p.one{color:purple;font-size: 18px;border-style: dotted;border-width: 5px;}
