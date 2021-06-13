@@ -4,12 +4,12 @@
 }
 
 input{
-  display: block;
+  display: none;
 }
 
 nav{
   margin: auto;
-  display: block;
+  display: flex;
   justify-content: space-between;
   background: #A9CBD7;
   align-items: center;
