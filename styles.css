@@ -4,12 +4,12 @@
 }
 
 input{
-  display: none;
+  display: block;
 }
 
 nav{
   margin: auto;
-  display: flex;
+  display: block;
   justify-content: space-between;
   background: #A9CBD7;
   align-items: center;
@@ -169,7 +169,6 @@ div.gallery {
     border: 1px solid #ccc;
     float: left;
     width: 180px;
-    display: none;
 }
 
 div.gallery:hover {
